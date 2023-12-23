@@ -1,0 +1,4 @@
+Min positive: 1
+Max positive: 1
+Min negative: none
+Max negative: none
